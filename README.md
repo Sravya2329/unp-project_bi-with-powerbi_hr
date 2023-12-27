@@ -6,5 +6,5 @@ Key highlights:
 2.Acquired the ability to examine data and transform it into useful Power BI solutions.
 3.Enhanced proficiency in developing data models, applied DAX for data transformations and computations to provide precise analysis and reporting.
 4.Lead the group through the intricate information symphony.
-https://drive.google.com/file/d/1G7jFY1Ap0tNEFhcrKJX7iBnzflBmubjc/view?usp=sharing
-https://drive.google.com/file/d/1JSdKe3HHKZAL191-zz2dlv-HKyL8luZo/view?usp=sharing
+PDF link: https://drive.google.com/file/d/1G7jFY1Ap0tNEFhcrKJX7iBnzflBmubjc/view?usp=sharing
+PBIX file link: https://drive.google.com/file/d/1JSdKe3HHKZAL191-zz2dlv-HKyL8luZo/view?usp=sharing
