@@ -1,4 +1,5 @@
 UNP-Project_BI-with-Power-BI_Human-Resource
+
 Completed this project as a part of my BI with PowerBI internship with UNP. It provides a data visualisation showing the impact of several factors on attrition based on HR Data. To clarify the same, we have designed a dashboard with a variety of slicers, cards, and charts.
 
 Key highlights:
